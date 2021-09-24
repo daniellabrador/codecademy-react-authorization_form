@@ -21,7 +21,7 @@ They’ve asked you to hide their website’s contact page behind a password for
 
 ## Setup
 
-To view the final output, click [here](https://daniellabrador.me/codecademy-react-)
+To view the final output, click [here](https://daniellabrador.me/codecademy-react-authorization_form/)
 
 ## Sources
 
